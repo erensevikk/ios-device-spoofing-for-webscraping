@@ -1,4 +1,4 @@
-#📱 iOS Device Spoofing for Web Scraping
+# iOS Device Spoofing for Web Scraping
 
 This project provides a spoofing layer that emulates an iPhone 14 Pro Max at both the network (TCP/IP) and browser fingerprint levels in a way that is highly realistic.
 Its purpose is to help bypass advanced bot detection systems during web scraping operations.
