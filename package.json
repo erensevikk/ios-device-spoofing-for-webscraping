@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "fingerprint-injector": "^2.1.63",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "http-proxy": "^1.18.1",
+    "patchright": "^1.51.3",
+    "path": "^0.12.7",
+    "playwright": "^1.51.1",
+    "playwright-extra": "^4.3.6",
+    "playwright-with-fingerprints": "^2.2.0",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "raw": "^0.1.4",
+    "raw-socket": "^1.8.1"
+  }
+}
